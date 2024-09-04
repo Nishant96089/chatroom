@@ -2,6 +2,8 @@
 
 This is a simple chatroom application built with Django. Users can create chat rooms, send messages, and see messages from other users in real-time.
 
+👉 Live Demo: <a href='https://nishant96089.pythonanywhere.com/'>ChatRoom</a>
+
 ## Features
 
 - Create chat rooms
